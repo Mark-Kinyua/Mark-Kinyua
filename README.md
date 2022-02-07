@@ -12,10 +12,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mark-Kinyua)](https://github.com/anuraghazra/github-readme-stats)
-
-
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/Hi.gif" width="30px">, I am Mark Muriithi </h1>
 
 <p align="center" width="150px"> I have just kickstarted my career as a software developer intern before finishing my 4th year.. <br>I have succesfully completed a great deal of softwares with various companies</p>
