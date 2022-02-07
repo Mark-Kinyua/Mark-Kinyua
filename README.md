@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 <p align="center" ><img src="https://github-readme-streak-stats.herokuapp.com?user=Mark-Kinyua&theme=chartreuse-dark"></p>
 
 <div align="center">
- You can <a href="mailto:absphreak@outlook.com"><b>email</b></a> me.
+ You can <a href="mailto:markinyua@gmail.com"><b>email</b></a> me.
 </div>
 
 ### 🛠 &nbsp;Tech Stack
