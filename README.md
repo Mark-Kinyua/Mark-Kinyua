@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <p align="center"><b>Visitor's Count</b></p>
 <p align="center"><img src="https://profile-counter.glitch.me/%7BMark-Kinyua%7D/count.svg" alt="visitor badge"/></p>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mark-Kinyua&layout=compact&hide=TSQL&theme=chartreuse-dark"></p>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mark-Kinyua&show_icons=true&theme=radical)
+(https://github-readme-stats.vercel.app/api?username=Mark-Kinyua&show_icons=true&theme=radical)
 <p align="center" ><img src="https://github-readme-streak-stats.herokuapp.com?user=Mark-Kinyua&theme=chartreuse-dark"></p>
 
 ### 🛠 &nbsp;Tech Stack
