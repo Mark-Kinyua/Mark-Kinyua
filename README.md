@@ -25,6 +25,10 @@ Here are some ideas to get you started:
 <!--<img align="center" src="https://github-readme-stats.vercel.app/api?username=Mark-Kinyua&show_icons=true&include_all_commits=true&theme=radical" alt="Mark Kinyua's github stats" />-->
 <p align="center" ><img src="https://github-readme-streak-stats.herokuapp.com?user=Mark-Kinyua&theme=chartreuse-dark"></p>
 
+<div align="center">
+ You can <a href="mailto:absphreak@outlook.com"><b>email</b></a> me.
+</div>
+
 ### 🛠 &nbsp;Tech Stack
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
