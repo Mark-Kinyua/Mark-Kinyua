@@ -1,4 +1,5 @@
-### Hi there 👋
+[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/intro.gif" alt="👋 Hi there! I'm (Mark Mu(111|Muriithi)|Mark Muriithi Kinyua)" title="👋 Hi there! I'm (Mark Mu(111|Muriithi)|Mark Muriithi Kinyua)"/>](#)
+
 
 <!--
 **Mark-Kinyua/Mark-Kinyua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
