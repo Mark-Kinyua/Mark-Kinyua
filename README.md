@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <p align="center"><img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png"></p>
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/Hi.gif" width="30px">, I'm Mark Muriithi </h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/Hi.gif" width="30px">, I'm Mark Muriithi. </h1>
 
 <p align="center" width="150px"> A computer scientist who likes to challenge himself by accomplishing various tasks using numerous languages and technologies.  <br>I have succesfully completed a great deal of softwares with various companies,<br> wish i could make some repos public, mindblowing stuff really.</p>
 
