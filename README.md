@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 <p align="center" width="150px"> A computer scientist who challenges himself by accomplishing various tasks using numerous languages and technologies.  <br>I have succesfully completed a great deal of softwares with various companies,<br> wish i could make some repos public, mindblowing stuff in here.</p>
 
-<p align="center"><b>Visitor's Count</b></p>
+<!-- <p align="center"><b>Visitor's Count</b></p>
 <p align="center"><img src="https://profile-counter.glitch.me/%7BMark-Kinyua%7D/count.svg" alt="visitor badge"/></p>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mark-Kinyua&layout=compact&hide=TSQL&theme=chartreuse-dark"></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mark-Kinyua&layout=compact&hide=TSQL&theme=chartreuse-dark"></p> -->
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mark-Kinyua&theme=chartreuse-dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)-->
 <p align="center" ><img src="https://github-readme-stats.vercel.app/api?username=Mark-Kinyua&count_private=true&show_icons=true&&theme=chartreuse-dark&include_all_commits=true" width="400"></p>
 <!--<img align="center" src="https://github-readme-stats.vercel.app/api?username=Mark-Kinyua&show_icons=true&include_all_commits=true&theme=radical" alt="Mark Kinyua's github stats" />-->
