@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 <h1 align="center">Hi , I'm Mark Muriithi. </h1>
 
-<p align="center" width="150px"> A computer scientist who challenges himself by accomplishing various tasks using numerous languages and technologies.  <br>I have succesfully completed a great deal of softwares with various companies,<br> wish i could make some repos public, mindblowing stuff in here.</p>
+<p align="center" width="150px"> A computer scientist who challenges himself by accomplishing various tasks using numerous languages and technologies. 
 
 <p align="center"><b>Visitor's Count</b></p>
 <p align="center"><img src="https://profile-counter.glitch.me/%7BMark-Kinyua%7D/count.svg" alt="visitor badge"/></p>
